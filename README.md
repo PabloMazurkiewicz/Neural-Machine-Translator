@@ -1,6 +1,6 @@
 ## README
 
-### Title: English to French - Neural Machine Translation with RNN Models
+### Title: Neural Machine Translation with RNN Models
 
 This Jupyter Notebook provides a comprehensive walkthrough for developing and evaluating various Recurrent Neural Network (RNN) models for the task of English to French neural machine translation. Below is an outline of the notebook's flow and its primary components.
 
@@ -51,5 +51,3 @@ The code was run in the Udacity workspace since the exact environment was not re
 However, I have included the pip freeze output in the requirements.txt file to indicate the versions that were used.
 
 Check the 'machine_translation.ipynb' file for detailed code.
-
-For more information, please refer to the provided README from [Udacity](./README_Udacity.md).
